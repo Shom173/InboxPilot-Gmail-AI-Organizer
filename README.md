@@ -51,13 +51,14 @@ AI Classification
 Apply Gmail Label
    ↓
 Wait / Rate Limit Control
+```
 
 ## 🔐 Setup
 
-Import the workflow JSON into n8n.
-Connect your Gmail account.
-Configure your Gemini credentials.
-Create/select the required Gmail labels.
-Activate the workflow.
+- Import the workflow JSON into n8n.
+- Connect your Gmail account.
+- Configure your Gemini credentials.
+- Create/select the required Gmail labels.
+- Activate the workflow.
 
 API keys and credentials are not included in this repository.
