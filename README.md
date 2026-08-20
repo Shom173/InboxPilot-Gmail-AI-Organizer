@@ -37,9 +37,11 @@ AI Classification
 Category Routing
    ↓
 Apply Gmail Label
+```
 
-Existing mail:
+## Existing mail:
 
+```text
 Manual Trigger
    ↓
 Fetch Emails
